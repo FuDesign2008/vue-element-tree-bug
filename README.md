@@ -9,7 +9,7 @@ steps
 1. install [vue-devtools 4.0.1](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) from chrome webstore
 1. npm install
 1. npm run dev
-1. click `test` button in page
+1. click tree node item in page
 
 ![error](./error.png)
 
