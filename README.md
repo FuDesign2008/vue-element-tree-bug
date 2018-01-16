@@ -10,7 +10,7 @@ steps
 1. npm run dev
 1. click `test` button in page
 
-[error](./error.png)
+![error](./error.png)
 
 
 
