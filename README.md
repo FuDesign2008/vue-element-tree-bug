@@ -1,6 +1,7 @@
 # vue-element-tree-bug
 
-##
+## bug
+
 demo for bug element-ui tree and vue-devtools
 
 steps
