@@ -1,5 +1,7 @@
 # vue-element-tree-bug
 
+@see ElemeFE/element#9293
+
 ## bug
 
 demo for bug element-ui tree and vue-devtools
@@ -13,12 +15,9 @@ steps
 
 ![error](./error.png)
 
-
-
-
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
