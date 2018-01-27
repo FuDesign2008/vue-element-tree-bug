@@ -1,6 +1,6 @@
 # vue-element-tree-bug
 
-@see ElemeFE/element#9293
+@see https://github.com/ElemeFE/element/issues/9293
 
 ## bug
 
